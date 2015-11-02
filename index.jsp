@@ -142,7 +142,6 @@
 					 <input  type="image"  name="submit_Btn"  id="submit_Btn"  src="img/banner_top.png"  onClick="javascript:location.href='/Zhen2b/ToRegisterServlet'" >
 				</div> 
 			</div>
-
 			<div class="row-fluid print-hide">
 				<div class="span12">
 					<div class="navbar main-nav">
