@@ -186,7 +186,6 @@
 										<li><a id="book">Books</a></li>
 										<li><a id="sports">Sports&Outdoors</a></li>										
 									</ul>
-									
 								</div>
 							</div>
 						</div>
@@ -444,19 +443,15 @@
 							<li><a href="#">Large product C</a></li>
 						</ul>
 					</div>
-
 				</div>
-
+				
 				<div class="row-fluid print-show">
 					<div class="span12">
 						Alternate footer for print version
 					</div>
 				</div>
-
 			</div>
-
 		</div>
-
 	</body>
 
 </html>
