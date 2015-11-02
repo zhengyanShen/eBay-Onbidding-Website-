@@ -8,7 +8,6 @@
 <!--[if !IE]><!--><html class="no-js" lang="nl"><!--<![endif]-->
 
 	<head>
-
 		<meta charset="utf-8">
 		<title>Account</title>
 		<meta name="description" content="Page description here">
@@ -87,7 +86,6 @@
   		</style>
 
 	</head>
-
 	<body onload="timer()">
 
 		<!-- Facebook div for like button -->
@@ -98,13 +96,11 @@
 
 		<!-- Use class "container-fluid" on the following div for making complete website fluid -->
 		<div class="container">
-
 			<div class="row-fluid print-show">
 				<div class="span12">
 					Alternate header for print version
 				</div>
 			</div>
-
 			<div class="row-fluid print-hide">
 				<div class="span4">
 					<div class="header-action">
@@ -121,7 +117,7 @@
 									<li>
 										<div class="dropdown-content">
 											<br>
-										    <form action="LogoutServlet" method="post">										
+										        <form action="LogoutServlet" method="post">										
 												&nbsp;<button class="btn btn-primary" formaction="account.jsp">Account</button>
 												&nbsp;&nbsp;&nbsp;&nbsp;<button class="btn" type="submit">logout</button>
 											</form>
@@ -136,7 +132,6 @@
 					</div>
 				</div>
 			</div>
-
 			<div class="row-fluid print-hide">
 				<div class="span3">
 					<img src="img/logo1.png" alt="Logo">
@@ -146,7 +141,6 @@
 						<div class="span11 offset1">
 							<div class="navbar header-search-nav">
 								<ul class="nav">
-								
 								</ul>
 							</div>
 						</div>
@@ -167,7 +161,6 @@
 					 <input  type="image"  name="submit_Btn"  id="submit_Btn"  src="img/banner_top.png"  onClick="javascript:alert('Please Logout First')" >
 				</div>
 			</div>
-
 			<div class="row-fluid print-hide">
 				<div class="span12">
 					<div class="navbar main-nav">
@@ -193,7 +186,6 @@
 					</div>
 				</div>
 			</div>		
-
 			<div class="row-fluid">
 				<div class="span12">
 					<form class="form" action="AccountServlet">
